@@ -155,5 +155,5 @@ SentryPass Pro a été conçu selon le principe de **divulgation zéro** :
 Ce projet est distribué sous licence **MIT**. Vous êtes libre de l'utiliser, l'étudier, le modifier et le distribuer conformément aux termes de la licence.
 
 <p align="center">
-  <i>Développé avec passion et sécurité en Rust. 🛡️</i>
+  <i>Développé par Bleu Serge Alain avec passion et sécurité en Rust. 🛡️</i>
 </p>
